@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
                     break;
                     }
                     else {
-                        Toast.makeText(this,"No se puede introducir un 0 en divisor", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this,"No se puede introducir un 0", Toast.LENGTH_SHORT).show();
                     }
             }
 
