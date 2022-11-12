@@ -106,8 +106,8 @@ public class MainActivity extends AppCompatActivity {
         {
             Toast.makeText(this,"Error en la suma de los datos" + e.getMessage(), Toast.LENGTH_SHORT).show();
         }
-        //bebe no prechioscho
-        //No me quiere
-        //Besitos
+        //bebe no prechioscho -- Jodete
+        //No me quiere -- Si te quiero
+        //Besitos 
     }
 }
